@@ -1,0 +1,17 @@
+{"profile":[{
+    "img":"download(1).jpg",
+    "name":"samsung",
+     "model":"samsung J2",
+     "color":"black",
+     "size":"10*6"
+    
+
+},
+{
+    "img":"download.jpg",
+    "name":"oppo",
+     "model":"oppo A2",
+     "color":"silver",
+     "size":"12*6"
+}]
+}
